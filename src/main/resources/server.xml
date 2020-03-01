@@ -2,14 +2,14 @@
 <Server>
     <Service>
         <Connector port="8080">
-            <Engine>
-                <Host name="localhost" appBase="E:\webapps">
 
-                </Host>
-            </Engine>
 
         </Connector>
+        <Engine>
+            <Host name="localhost" appBase="E:\webapps">
 
+            </Host>
+        </Engine>
     </Service>
 
 </Server>
